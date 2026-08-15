@@ -34,7 +34,7 @@ Posture Pal is a student-friendly posture tracker that:
 *Main dashboard with score ring, streak counter, timer, and weekly calendar*
 
 ### Posture Check Popup
-![Popup](./screenshots/Popup.png)  
+![Popup](./screenshots/popup.png)  
 *Popup that appears at your chosen interval with 3 response buttons*
 
 ### History
@@ -46,11 +46,11 @@ Posture Pal is a student-friendly posture tracker that:
 *All 8 achievements with locked/unlocked status*
 
 ### Settings
-![Settings](./screenshots/Settings.png)  
+![Settings](./screenshots/settings.png)  
 *Customizable interval, daily goal, sound, and theme*
 
 ### Dark Mode
-![Dark](./screenshots/Dark.png)  
+![Dark](./screenshots/dark.png)  
 *Dark theme for late-night studying sessions*
 
 ---
