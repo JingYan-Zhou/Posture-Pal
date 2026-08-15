@@ -1,61 +1,118 @@
 # 🐢 Posture Pal
 
-A posture tracking app for students who spend long hours on screens.(Project for PeddieHacks 2026)
+A posture tracking app for students who spend long hours on screens.  
+*Built for PeddieHacks 2026 – Health Track (High School Division)*
+
+---
 
 ## The Problem
 
-Nowadays, students like me spend 6+ hours on screens daily. Poor sitting posture leads to back pain, neck strain, and long-term health issues. I personally struggle with slouching while studying as well – so I built Posture Pal.
+Students like me spend 6+ hours on screens daily. Poor sitting posture leads to:
+- Back pain and neck strain
+- Headaches and fatigue
+- Long-term health issues
+
+I personally struggle with slouching while studying – so I built Posture Pal to help myself and others build better habits.
+
+---
 
 ## The Solution
 
 Posture Pal is a student-friendly posture tracker that:
-- ⏰ Reminds you every 15/20/30 minutes to check your posture, your choice!
-- 📊 Tracks your streak and daily score
-- 🏆 Gamifies good posture with achievements
-- 🐢 Uses a cute turtle mascot for encouragement
 
-## Design
+- ⏰ **Reminds you** every 15/20/30 minutes (you choose the interval!)
+- 📊 **Tracks your streak** and daily posture score
+- 🏆 **Gamifies good posture** with achievements and unlock notifications
+- 🐢 **Uses a cute turtle mascot** for encouragement and motivation
 
-This project includes 4 fully designed screens:
+---
+
+## Screenshots
 
 ### Dashboard
-![Dashboard](./screenshots/Posture%20Pal%20Dashboard.png)
-*Main dashboard with score ring, streak, timer, and weekly calendar*
+![Dashboard](./screenshots/Dashboard.png)  
+*Main dashboard with score ring, streak counter, timer, and weekly calendar*
 
 ### Posture Check Popup
-![Popup](./screenshots/Posture%20Pal%20Popup.png)
-*Popup that appears every 20 minutes with 3 response buttons*
+![Popup](./screenshots/Popup.png)  
+*Popup that appears at your chosen interval with 3 response buttons*
 
 ### History
-![History](./screenshots/Posture%20Pal%20History.png)
-*Progress tracking with line graph, calendar, and achievements*
+![History](./screenshots/History.png)  
+*Progress tracking with line graph, statistics, and achievements*
+
+### Achievements
+![Achievements](./screenshots/Achievements.png)  
+*All 8 achievements with locked/unlocked status*
 
 ### Settings
-![Settings](./screenshots/Posture%20Pal%20Settings.png)
-*Customizable interval, daily goal, theme, and sound*
+![Settings](./screenshots/Settings.png)  
+*Customizable interval, daily goal, sound, and theme*
+
+### Dark Mode
+![Dark](./screenshots/Dark.png)  
+*Dark theme for late-night studying sessions*
+
+---
+
+## Features
+
+| Feature | Description |
+|---------|-------------|
+| **20-Minute Timer** | Reminds you to check your posture regularly |
+| **Streak System** | Tracks consecutive DAYS of good posture (not total logs!) |
+| **Score Ring** | Visual progress indicator showing your daily score |
+| **Weekly Calendar** | Color-coded view of your posture this week |
+| **8 Achievements** | Unlockable badges with special popup notifications |
+| **History Graph** | Line chart showing your posture trends |
+| **Dark/Light Mode** | Toggle between themes for day or night |
+| **Custom Settings** | Adjust interval, daily goal, and sound |
+
+---
 
 ## Tech Stack
 
 - 🎨 **Figma** – UI/UX Design
 - 🤖 **Figma Make (AI)** – Code generation
-- 🧠 **DeepSeek** – AI assistance for coding, debugging, and project planning
+- 🧠 **DeepSeek** – AI assistance for coding, debugging, and planning
 - 📝 **HTML/CSS/JavaScript** – Web technologies
-- 💾 **localStorage** – Data persistence
+- 💾 **localStorage** – Data persistence (no sign-up required!)
 - 📈 **Chart.js** – Data visualization
+
+---
+
+## What Makes This Unique
+
+- **Streak counts DAYS, not total logs** – encourages consistent daily habits, not just spamming the button
+- **Achievement unlock popups** – instant gratification when you hit milestones
+- **Cute turtle mascot** – makes building good posture feel less like a chore
+- **Fully offline** – no internet connection needed after loading
+
+---
 
 ## Future Features
 
 - 📱 Mobile app version
 - 🤖 AI camera posture detection
 - 🔔 Push notifications
-- 👥 Multi-user support
+- 📊 Export data as CSV/PDF
+- 👥 Multi-user support and leaderboards
+
+---
 
 ## Built For
 
-Hackathon 2026 - Health Track (High School Division)
+**PeddieHacks 2026** – Health Track (High School Division)
+
+---
 
 ## Author
 
-Ian
+**Ian**  
+*Built with ❤️ and 🐢*
 
-Thanks for judging my project!😊
+Thanks for judging my project! 😊
+
+---
+
+*"Every good posture starts with one check."* 🐢
